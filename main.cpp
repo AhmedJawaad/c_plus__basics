@@ -1,25 +1,11 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/* 
- * File:   main.cpp
- * Author: anas
- *
- * Created on February 19, 2018, 8:19 AM
- */
-
-#include <cstdlib>
-
+#include <iostream> 
 using namespace std;
+int main(){  // the main function where the programme starts from
 
-/*
- * 
- */
-int main(int argc, char** argv) {
-
-    return 0;
+    cout<<"this statment will followed by new line \n";
+    
+    
+    
+    
+    return 0; // the return is 0 cause main function return int and it mean stop the programme
 }
-
